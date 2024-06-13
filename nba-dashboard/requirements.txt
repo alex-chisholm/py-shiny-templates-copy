@@ -4,3 +4,4 @@ nba_api
 plotly
 shinywidgets
 scipy
+shiny
